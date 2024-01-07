@@ -7,7 +7,7 @@ import java.awt.geom.*;
 import javax.swing.JPanel;
 
 public class P2 extends JPanel {
-//this is a
+//this is 
 
     @Override
     public void paintComponent(Graphics g) {
