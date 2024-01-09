@@ -4,7 +4,7 @@ package exe;
  * This class creates a custom panel that displays two rotating arcs,
  * one red and one blue, with smooth animation and dynamic positioning.
  * The arcs gradually rotate around a central point, creating a visually
- * appealing effect.
+ * appealing effect
  */
 import java.awt.*;
 import java.awt.event.ActionEvent;
